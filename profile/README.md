@@ -1,4 +1,4 @@
-# 🫘 CrazyBeanz Labs
+# 🫘 Crazy Beanz Labs
 
 Welcome to **CrazyBeanz Labs**, the official GitHub organization behind [crazybeanz.xyz](https://crazybeanz.xyz) — where NFTs, games, and wild ideas collide.
 
